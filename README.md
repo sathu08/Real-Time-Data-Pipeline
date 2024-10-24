@@ -8,7 +8,7 @@
 
 ## Step 1: Create a Docker Compose File
 ## 1. Create a docker-compose.yml file:
-## Use docker compose yml [docker-compose.yml](/home/saturam/Desktop/Python_Project_Folder/pythonproject/next/docker-compose.yml) 
+## Use docker compose yml [docker-compose.yml](/docker-compose.yml) 
 
 # Step 2: Start Docker Containers
 ## 1. Run Docker Compose:
@@ -85,7 +85,7 @@ connection = psycopg2.connect(
 
 ```
 ## 4. Python Script for Initial Data Load
-## Use Python script for initial Data loading [create_insert_val_tab.py](/home/saturam/Desktop/Python_Project_Folder/pythonproject/next/create_insert_val_tab.py) 
+## Use Python script for initial Data loading [create_insert_val_tab.py](create_insert_val_tab.py) 
 
 ## 5. Python CDC Consumer for Real-time Updates:
-## Use Python script for real-time CDC updates [main.py](/home/saturam/Desktop/Python_Project_Folder/pythonproject/next/create_insert_val_tab.py) 
+## Use Python script for real-time CDC updates [main.py](/main.py) 
